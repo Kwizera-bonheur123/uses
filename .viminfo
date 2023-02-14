@@ -11,8 +11,10 @@
 # hlsearch on (H) or off (h):
 ~h
 # Command Line History (newest to oldest):
+:wq
+|2,0,1676334984,,"wq"
 :x
-|2,0,1676153010,,"x"
+|2,0,1676324570,,"x"
 
 # Search String History (newest to oldest):
 
@@ -25,16 +27,254 @@
 # Registers:
 
 # File marks:
-'0  19  0  ~/README.md
-|4,48,19,0,1676153014,"~/README.md"
+'0  2  18  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,48,2,18,1676334989,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'1  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,49,2,0,1676334552,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'2  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,50,2,0,1676333155,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'3  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,51,2,0,1676333155,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'4  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,52,2,16,1676332087,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'5  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,53,2,16,1676332087,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'6  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,54,2,16,1676332087,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'7  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,55,2,16,1676332087,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'8  3  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,56,3,0,1676328943,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+'9  3  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,57,3,0,1676328943,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
 
 # Jumplist (newest first):
--'  19  0  ~/README.md
-|4,39,19,0,1676153014,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1676151170,"~/README.md"
+-'  2  18  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,18,1676334989,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,0,1676334552,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,0,1676333155,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1676332087,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676332001,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676332001,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676332001,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676332001,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  3  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,3,0,1676328943,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  3  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,3,0,1676328943,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  3  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,3,0,1676328943,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  3  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,3,0,1676328943,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  3  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,3,0,1676328943,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676328893,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1676328645,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1676328645,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676328571,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1676328451,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676328317,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  14  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,14,1676325674,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  15  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,15,1676324570,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1676323209,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  2  16  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,2,16,1676322472,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676322324,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676322324,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676322324,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  1  0  ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+|4,39,1,0,1676322324,"~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
+-'  17  31  ~/zero_day/README.md
+|4,39,17,31,1676237739,"~/zero_day/README.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/alx-system_engineering-devops/0x02-shell_redirections/0-hello_world
+	*	1676334977	0
+	"	2	18
+	^	2	0
+	.	1	9
+	+	1	10
+	+	2	16
+	+	2	4
+	+	2	5
+	+	2	17
+	+	2	5
+	+	1	9
+
+> ~/zero_day/README.md
+	*	1676237730	0
+	"	17	31
+	^	17	32
+	.	17	2
+	+	2	0
+	+	1	51
+	+	19	2
+	+	20	0
+	+	17	2
 
 > ~/README.md
 	*	1676152999	0
